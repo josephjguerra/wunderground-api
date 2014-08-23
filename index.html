@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Wunderground API</title>
+
+	<link rel="stylesheet" href="wu.css">
+
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+	<script type="text/javascript" src="wu.js"></script>
+</head>
+<body>
+
+<h1>Wunderground API</h1>
+<h2>really quick weather</h2>
+<p>enter a zip code</p>
+
+	<form class="wuInput" onsubmit="return false;">
+		<input type="text" placeholder="e.g., 10011" name="zipInput" size="20" required>
+		<input type="submit" value="Submit">
+	</form>
+
+<div class="results"></div>
+
+</body>
+</html>
