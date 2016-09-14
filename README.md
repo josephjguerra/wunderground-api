@@ -7,4 +7,6 @@ download these files to try out the API yourself
 
 please sign up for your own API key at http://www.wunderground.com/weather/api/
 
-The API key goes into the JSON URL endpoint 
+The API key goes into the JSON URL endpoint
+
+see this live at [http://josephjguerra.com/wunderground-api/](http://josephjguerra.com/wunderground-api/)

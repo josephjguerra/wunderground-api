@@ -1,5 +1,12 @@
 html {
-	font-family: monospace;
-	font-size: 2em;
+	font-family: 'Droid Sans Mono', monospace;
 	text-align: center;
+	font-size: 1.5em;
+	font-weight: bold;
+	background-color: #C2DAE6;
+}
+
+input {
+	font-family: 'Droid Sans Mono', monospace;
+	font-size: 1.2em;
 }
